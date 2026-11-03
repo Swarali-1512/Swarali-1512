@@ -110,3 +110,10 @@ LiveTech India | June 2025 – August 2025
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
+
+<p align="center">
+  <img src="assets/profile.jpg"
+       width="160"
+       style="border-radius: 50%;"
+       alt="Sharvary's Profile Photo"/>
+</p>
